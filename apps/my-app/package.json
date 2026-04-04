@@ -1,0 +1,6 @@
+{
+  "name": "@voidmesh/my-app",
+  "dependencies": {
+    "@voidmesh/my-lib": "workspace:*"
+  }
+}
