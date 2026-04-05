@@ -50,3 +50,7 @@ vite.config.*.timestamp*
 
 .env*
 !.env.example
+
+# Next.js
+.next
+out

@@ -2,5 +2,15 @@
   "extends": "./tsconfig.base.json",
   "compileOnSave": false,
   "files": [],
-  "references": [{ "path": "./apps/my-app" }, { "path": "./libs/my-lib" }]
+  "references": [
+    {
+      "path": "./apps/my-app"
+    },
+    {
+      "path": "./libs/my-lib"
+    },
+    {
+      "path": "./apps/galaxy-web"
+    }
+  ]
 }
