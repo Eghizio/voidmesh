@@ -1,5 +1,8 @@
 {
   "name": "@voidmesh/my-app",
+  "scripts": {
+    "dev": "tsx ./src/index.ts"
+  },
   "dependencies": {
     "@voidmesh/my-lib": "workspace:*"
   }

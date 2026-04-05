@@ -1,0 +1,7 @@
+{
+  "name": "@voidmesh/my-lib",
+  "main": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts"
+  }
+}
